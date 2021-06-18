@@ -113,7 +113,7 @@ header{
 }
 .about-img:hover{
 	outline: 10px solid #dbc1ac;
-	outline-offset: 10px;
+	outline-offset: 32px;
 	transform: scale(1.3) rotate(20deg);
 	z-index: 30;
 	opacity: 1;
